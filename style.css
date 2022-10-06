@@ -1,9 +1,10 @@
-body {
-  color: white;
+body
+{
+    color: white;
+    background-color: blue;
 }
-body div {
-  color: white;
-  background-color: #000;
+body div
+{
+    color: white;
+    background-color: #000;
 }
-
-/*# sourceMappingURL=style.css.map */
