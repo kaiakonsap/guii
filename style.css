@@ -1,14 +1,14 @@
 body
 {
-    color: hotpink;
-    background-color: blue;
+    color: black;
+    background-color: black;
 }
 body div
 {
-    color: yellow;
+    color: black;
     background-color: #000;
 }
 
 h1 {
-  color: yellow;
+  color: black;
 }
