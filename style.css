@@ -3,6 +3,11 @@ body
     color: black;
     background-color: black;
 }
+body span
+{
+    color: black;
+    background-color: black;
+}
 body div
 {
     color: black;
