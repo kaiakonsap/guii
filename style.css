@@ -1,14 +1,15 @@
 body
 {
     color: yellow;
-    background-color: blue;
+    background-color: yellow;
 }
 body div
 {
-    color: white;
-    background-color: #000;
+    color: yellow;
+    background-color: yellow;
 }
 
-h1 {
-  color: purple;
+h1
+{
+    color: purple;
 }
